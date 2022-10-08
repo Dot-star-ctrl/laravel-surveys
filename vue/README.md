@@ -1,7 +1,17 @@
-# Vue 3 + Vite
+# Surveys application
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+<table>
+  <tr>
+    <td valign="top"><img src="vue/public/images/pic_1.png" alt="Logo"></td>
+    <td valign="top"><img src="vue/src/assets/images/pic_2.png" alt="Logo" width="500" height="500"></td>
+</tr>
+</table>
 
-## Recommended IDE Setup
 
-- [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.volar)
+<table align="center"><tr><td align="center" width="9999">
+
+<a align="center">
+    <img src="vue/public/images/pic_1.png" alt="Logo" width="500" height="500">
+</a>
+
+</td></tr></table>

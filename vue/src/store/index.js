@@ -111,6 +111,7 @@ const store = createStore({
             return axiosClient.post(`/survey/${surveyId}/answer`,{answers});
         },
         register({ commit }, user) {
+          console.log(user);
             return axiosClient.post('/register', user)
             .then(({data}) => {
                 commit('setUser', data);
